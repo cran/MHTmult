@@ -1,0 +1,17 @@
+75cac2dc80f3f74b74104b90a479d289 *DESCRIPTION
+e6fd1ad75c534581f992c88e7b6258d4 *NAMESPACE
+c4c07235bdc556d0feb7775786cac6fc *R/DFDR_adjP.R
+644c4d1cff550ad5c7e3fb975891d44a *R/GBH_adjP.R
+0a874f3d0d4900a9f77a0c5639fb8411 *R/avgFDR.R
+62e46a395b82d4bee23271010027829a *R/cFDR_adjP.R
+841336654dded161569e2e58377f2a41 *R/kFWER_adjP.R
+67bf7660941c9526de37559f2e2053d6 *man/DFDR.p.adjust.Rd
+0da740be388ae02f30e12a3396ac0f5b *man/DFDR2.p.adjust.Rd
+49525830ef843e378e7b7dbfe57c3427 *man/GBH.p.adjust.Rd
+eccecc414d5b8638de2fb57642a24ddc *man/avgFDR.p.adjust.Rd
+d63030190517798322cb704e1ce4f272 *man/cFDR.cp.adjust.Rd
+410a571a4f68857d5529866655df26c7 *man/gbonf.cv.Rd
+9ba759cc59d9fa8a58a3f096e4588b86 *man/gbonf.p.adjust.Rd
+844727bf936ba72d573a786f5cc8d5b3 *man/gsidak.cv.Rd
+4d9661c19f415201d1464aae5571bdd3 *man/gsidak.p.adjust.Rd
+8c679ce917cbfff9969f1e94ee18fcd0 *man/select.thres.Rd
